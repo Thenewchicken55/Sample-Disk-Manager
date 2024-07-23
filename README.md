@@ -2,7 +2,7 @@
 
 This is a C program that runs a simple disk manager on a floppya.img. The program runs one command at a time rather than dynamically prompting the user for a request.
 
-# Useage
+## Useage
 
 The floppya.img is treated like a floppy disk with a lot of simplifications.
 
