@@ -1,3 +1,6 @@
+build:
+	gcc -o filesys filesys.c
+
 run:
 	gcc -o filesys filesys.c
 	./filesys
